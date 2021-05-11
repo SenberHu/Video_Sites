@@ -27,7 +27,7 @@
     "file-reader": "^1.1.1",
     "html-webpack-plugin": "^2.30.1",
     "isomorphic-fetch": "^2.2.1",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.21",
     "node-css": "^0.1.0",
     "open-browser-webpack-plugin": "0.0.5",
     "opn": "^5.1.0",
